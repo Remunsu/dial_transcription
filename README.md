@@ -12,6 +12,6 @@ hf download ai-sage/GigaAM-v3 --local-dir ./gigaam-v3\
 hf download neurlang/ipa-whisper-medium --local-dir ./ipa-whisper-medium
 
 # Инструкция
-1) Запустить ST3.py\
-2) Выбрать аудиофайл\
+1) Запустить ST3.py
+2) Выбрать аудиофайл
 3) Нажать "Начать распознавание"
